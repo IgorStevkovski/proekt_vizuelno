@@ -1,0 +1,12 @@
+C:\Users\Igor\Desktop\Vizuelno\PROEKT\proekt_ver1\proekt_ver1\bin\Debug\proekt_ver1.exe.config
+C:\Users\Igor\Desktop\Vizuelno\PROEKT\proekt_ver1\proekt_ver1\bin\Debug\proekt_ver1.exe
+C:\Users\Igor\Desktop\Vizuelno\PROEKT\proekt_ver1\proekt_ver1\bin\Debug\proekt_ver1.pdb
+C:\Users\Igor\Desktop\Vizuelno\PROEKT\proekt_ver1\proekt_ver1\obj\Debug\proekt_ver1.csprojResolveAssemblyReference.cache
+C:\Users\Igor\Desktop\Vizuelno\PROEKT\proekt_ver1\proekt_ver1\obj\Debug\proekt_ver1.Form1.resources
+C:\Users\Igor\Desktop\Vizuelno\PROEKT\proekt_ver1\proekt_ver1\obj\Debug\proekt_ver1.Properties.Resources.resources
+C:\Users\Igor\Desktop\Vizuelno\PROEKT\proekt_ver1\proekt_ver1\obj\Debug\proekt_ver1.csproj.GenerateResource.Cache
+C:\Users\Igor\Desktop\Vizuelno\PROEKT\proekt_ver1\proekt_ver1\obj\Debug\proekt_ver1.exe
+C:\Users\Igor\Desktop\Vizuelno\PROEKT\proekt_ver1\proekt_ver1\obj\Debug\proekt_ver1.pdb
+C:\Users\Igor\Desktop\Finki\Sestti_semestar\Vizuelno programiranje\Vizuelno_vezbi\PROEKT\proekt_ver1\proekt_ver1\bin\Debug\proekt_ver1.exe.config
+C:\Users\Igor\Desktop\Finki\Sestti_semestar\Vizuelno programiranje\Vizuelno_vezbi\PROEKT\proekt_ver1\proekt_ver1\obj\Debug\proekt_ver1.exe
+C:\Users\Igor\Desktop\Finki\Sestti_semestar\Vizuelno programiranje\Vizuelno_vezbi\PROEKT\proekt_ver1\proekt_ver1\obj\Debug\proekt_ver1.pdb
